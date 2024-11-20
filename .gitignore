@@ -1,0 +1,5 @@
+venv/
+*.png
+test.py
+CLEAN/
+*.csv
